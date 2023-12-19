@@ -2,6 +2,11 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({robots}) =>{
+
+	      // Added for Error Boundary.
+	//if (true){
+		//throw new Error('Not good!!')
+	//}
 	return(
 		// Everything put here is javascript including comments.  I could do like this befere:  {CardList}
 		// This is another power of React. it makes you a good JS programmer
