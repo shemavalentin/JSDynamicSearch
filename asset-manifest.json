@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.150ee6f5.css",
-    "main.js": "/static/js/main.03fb755c.js",
-    "static/js/787.c2cff050.chunk.js": "/static/js/787.c2cff050.chunk.js",
-    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/index.html",
-    "main.150ee6f5.css.map": "/static/css/main.150ee6f5.css.map",
-    "main.03fb755c.js.map": "/static/js/main.03fb755c.js.map",
-    "787.c2cff050.chunk.js.map": "/static/js/787.c2cff050.chunk.js.map"
+    "main.css": "/JSDynamicSearch/static/css/main.eef2aa7e.css",
+    "main.js": "/JSDynamicSearch/static/js/main.cafc35f0.js",
+    "static/js/787.c2cff050.chunk.js": "/JSDynamicSearch/static/js/787.c2cff050.chunk.js",
+    "static/media/SEGA.woff": "/JSDynamicSearch/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/JSDynamicSearch/index.html",
+    "main.eef2aa7e.css.map": "/JSDynamicSearch/static/css/main.eef2aa7e.css.map",
+    "main.cafc35f0.js.map": "/JSDynamicSearch/static/js/main.cafc35f0.js.map",
+    "787.c2cff050.chunk.js.map": "/JSDynamicSearch/static/js/787.c2cff050.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.150ee6f5.css",
-    "static/js/main.03fb755c.js"
+    "static/css/main.eef2aa7e.css",
+    "static/js/main.cafc35f0.js"
   ]
 }
