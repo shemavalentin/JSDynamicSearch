@@ -22,8 +22,7 @@ const CardList = ({robots}) =>{
 		</div>
 	);
 }
-
 export default CardList
 
 //Key prop should have something that doesn't change. For example, index(or i in our case)
-// Could change if array items get moved. So, a better in tnis case would be sothing unique like id.
+// Could change if array items get moved. So, a better in tnis case would be something unique like id.
